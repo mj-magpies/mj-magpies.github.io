@@ -20,6 +20,8 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
+remote_theme: fongandrew/hydeout
+theme: jekyll-theme-hydeout
 
 # Setup
 title:            MJ's Blog
@@ -49,9 +51,6 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-
-theme: jekyll-theme-hydeout
-external-theme: fongandrew/jekyll-theme-hydeout
 
 # Sidebar link settings
 sidebar_home_link:  true
