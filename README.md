@@ -1,1 +1,1 @@
-Theme by TODO
+Hydeout theme from [fongandrew](https://github.com/fongandrew/hydeout/)
